@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "subatomic-backstage-react-test1"
+  description: "na"
+  annotations:
+    github.com/project-slug: absa-subatomic/subatomic-backstage-react-test1
+    backstage.io/techdocs-ref: url:https://github.com/absa-subatomic/subatomic-backstage-react-test1
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "Guest"
